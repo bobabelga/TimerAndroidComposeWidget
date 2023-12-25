@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Timer Android Compose Widget</string>
+    <string name="example_appwidget_description">Description</string>
+</resources>
